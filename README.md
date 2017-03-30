@@ -21,7 +21,7 @@ First open Terminal on your Mac
 
 # If you found this helpful
 
-## Please tweet me <a href="https://twitter.com/3raxton" target="_blank">@3raxton</a> and let me know!
+### Please tweet me <a href="https://twitter.com/3raxton" target="_blank">@3raxton</a> and let me know!
 
 # Cheers! 
-I'll see you later 🙌🏻
+#### I'll see you later 🙌🏻
