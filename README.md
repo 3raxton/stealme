@@ -1,6 +1,6 @@
 # The code needed for Terminal ↓↓↓
 
-![Alt Text](https://github.com/3raxton/stealme/stealme.gif)
+![Terminal](https://github.com/3raxton/stealme/raw/master/stealme.gif)
 
 
 sudo /usr/local/bin/jamf removeFramework
