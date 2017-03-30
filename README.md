@@ -9,7 +9,7 @@ sudo /usr/local/bin/jamf removeFramework
 
 First open Terminal on your Mac
 
-1. Copy the code listed above by pressing the ⌘ (Command) and C keys at the same time 
+1. Copy the code listed above by selecting then pressing the ⌘ (Command) and C keys at the same time 
 
 2. Go back to terminal and paste the code inside the terminal window
 
