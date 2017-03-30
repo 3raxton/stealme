@@ -2,7 +2,7 @@
 
 Remove the restrictions on your Mac with one line of code
 
-# The code needed for Terminal ↓ꜜ
+# The code needed for Terminal ↓ꜜ￬
 sudo /usr/local/bin/jamf removeFramework
 
 # Instructions
