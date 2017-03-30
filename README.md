@@ -2,17 +2,10 @@
 
 ### sudo /usr/local/bin/jamf removeFramework
 
-# How to use code listed above 
-
-## The code needed for Terminal ↓↓↓
+# How to use code listed above ↓↓↓
 
 ![Terminal](https://github.com/3raxton/stealme/raw/master/stealme.gif)
 
-
-sudo /usr/local/bin/jamf removeFramework
-
-## Usage
-
-#### How do I use this?
+# Instructions
 
 ### First open Terminal on your Mac
