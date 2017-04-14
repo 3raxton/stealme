@@ -10,7 +10,7 @@ sudo /usr/local/bin/jamf removeFramework
 
 ## Option 1
 
-1. Download the ZIP file by clicking <a href="https://github.com/3raxton/stealme/archive/master.zip">here</a> from the top right hand corner on the main page of the Stealme repo
+1. Download the ZIP file by clicking <a href="https://github.com/3raxton/stealme/archive/master.zip">here</a> or from the top right hand corner on the main page of the Stealme repo
 
 2. Extract the files to your desktop
 
