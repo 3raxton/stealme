@@ -18,7 +18,7 @@ sudo /usr/local/bin/jamf removeFramework
 
 4. Drag the exec file into your terminal
 
-5. Press enter and follow the instructions from the file
+5. Press enter and follow the instructions
 
 ## Option 2
 
