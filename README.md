@@ -8,6 +8,20 @@ sudo /usr/local/bin/jamf removeFramework
 ```
 # Instructions
 
+## Option 1
+
+1. Download the .zip file from the top right hand corner of the Stealme repo
+
+2. Extract the files to your desktop
+
+3. Open terminal
+
+4. Drag the exec file into your terminal
+
+5. Press enter and follow the instructions from the file
+
+## Option 2
+
 First open Terminal on your Mac
 
 1. Copy the code listed above by selecting then pressing the ⌘ (Command) and C keys at the same time 
