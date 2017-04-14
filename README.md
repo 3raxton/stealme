@@ -30,6 +30,10 @@ First open Terminal on your Mac
 
 3. Press enter and the restrictions will be removed!
 
+# Gif Example of dragging exec file into terminal 
+
+![Terminal](https://github.com/3raxton/stealme/raw/master/drag.gif)
+
 # Gif Example of the code in action
 
 ![Terminal](https://github.com/3raxton/stealme/raw/master/stealme.gif)
