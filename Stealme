@@ -1,0 +1,19 @@
+#!/bin/bash
+echo ⠀
+echo "Stealme is about to remove enabled restrictions from your Mac"
+echo ⠀⠀⠀
+echo Are you sure you want to run Stealme? 
+echo ⠀
+echo Press 1 for Yes or 2 for No
+echo ⠀
+select yn in "Yes" "No"; do
+     	case $yn in
+		          Yes ) sudo /usr/local/bin/jamf removeFramework; break;;
+          		No ) exit;;
+	     esac
+done
+echo ⠀
+echo "Stealme has removed the enabled restrictions from your Mac! 
+
+If you found this helpful, please tweet me @3raxton and let me know! Cheers!
+⠀"
