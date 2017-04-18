@@ -2,7 +2,7 @@
 echo ⠀
 echo "Stealme is about to remove enabled restrictions from your Mac"
 echo ⠀⠀⠀
-echo Are you sure you want to run Stealme? 
+echo Are you sure you want to run Stealme? This will delete Self Service.
 echo ⠀
 echo Press 1 for Yes or 2 for No
 echo ⠀
