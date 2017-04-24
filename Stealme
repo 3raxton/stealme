@@ -1,8 +1,8 @@
 #!/bin/bash
 echo ⠀
-echo "Stealme is about to remove enabled restrictions from your Mac"
+echo "Stealme is about to remove enabled restrictions from your Mac – I will not be heald responsible for any issues caused by running Stealme"
 echo ⠀⠀⠀
-echo Are you sure you want to run Stealme? This will delete Self Service.
+echo Are you sure you want to run Stealme? This may cause issues on your Mac.
 echo ⠀
 echo Press 1 for Yes or 2 for No
 echo ⠀
